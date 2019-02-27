@@ -1,0 +1,495 @@
+[INFO  - 2019-02-10T14:53:01.622Z] GhostDriver - Main - running on port 10622
+[INFO  - 2019-02-10T14:53:02.175Z] Session [907d99c0-2d43-11e9-8848-19c28b32c665] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:02.175Z] Session [907d99c0-2d43-11e9-8848-19c28b32c665] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:02.175Z] Session [907d99c0-2d43-11e9-8848-19c28b32c665] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:02.175Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 907d99c0-2d43-11e9-8848-19c28b32c665
+[ERROR - 2019-02-10T14:53:06.322Z] Session [907d99c0-2d43-11e9-8848-19c28b32c665] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:53:06.322Z] Session [907d99c0-2d43-11e9-8848-19c28b32c665] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:53:06.605Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810386537
+[INFO  - 2019-02-10T14:53:06.663Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:53:08.768Z] GhostDriver - Main - running on port 33415
+[INFO  - 2019-02-10T14:53:08.807Z] Session [94719040-2d43-11e9-9428-a92e82d034bd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:08.807Z] Session [94719040-2d43-11e9-9428-a92e82d034bd] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:08.807Z] Session [94719040-2d43-11e9-9428-a92e82d034bd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:08.807Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 94719040-2d43-11e9-9428-a92e82d034bd
+[ERROR - 2019-02-10T14:53:10.086Z] Session [94719040-2d43-11e9-9428-a92e82d034bd] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:53:10.086Z] Session [94719040-2d43-11e9-9428-a92e82d034bd] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:53:10.393Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810390339
+[INFO  - 2019-02-10T14:53:10.430Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:53:12.592Z] GhostDriver - Main - running on port 6739
+[INFO  - 2019-02-10T14:53:13.154Z] Session [9708dcf0-2d43-11e9-9a16-2f079c82d353] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:13.154Z] Session [9708dcf0-2d43-11e9-9a16-2f079c82d353] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:13.154Z] Session [9708dcf0-2d43-11e9-9a16-2f079c82d353] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:13.155Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9708dcf0-2d43-11e9-9a16-2f079c82d353
+[ERROR - 2019-02-10T14:53:16.983Z] Session [9708dcf0-2d43-11e9-9a16-2f079c82d353] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:53:16.983Z] Session [9708dcf0-2d43-11e9-9a16-2f079c82d353] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:53:17.245Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810397187
+[INFO  - 2019-02-10T14:53:17.328Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:53:19.471Z] GhostDriver - Main - running on port 30743
+[INFO  - 2019-02-10T14:53:19.488Z] Session [9acf5ad0-2d43-11e9-ae21-8373fbfb6ed6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:19.488Z] Session [9acf5ad0-2d43-11e9-ae21-8373fbfb6ed6] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:19.489Z] Session [9acf5ad0-2d43-11e9-ae21-8373fbfb6ed6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:19.489Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9acf5ad0-2d43-11e9-ae21-8373fbfb6ed6
+[ERROR - 2019-02-10T14:53:23.375Z] Session [9acf5ad0-2d43-11e9-ae21-8373fbfb6ed6] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:53:23.375Z] Session [9acf5ad0-2d43-11e9-ae21-8373fbfb6ed6] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:53:23.677Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810403624
+[INFO  - 2019-02-10T14:53:23.713Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:53:25.862Z] GhostDriver - Main - running on port 27931
+[INFO  - 2019-02-10T14:53:25.874Z] Session [9e9dc7f0-2d43-11e9-8464-3f14ee30ac7f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:25.874Z] Session [9e9dc7f0-2d43-11e9-8464-3f14ee30ac7f] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:25.874Z] Session [9e9dc7f0-2d43-11e9-8464-3f14ee30ac7f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:25.874Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9e9dc7f0-2d43-11e9-8464-3f14ee30ac7f
+[ERROR - 2019-02-10T14:53:31.616Z] Session [9e9dc7f0-2d43-11e9-8464-3f14ee30ac7f] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:53:31.616Z] Session [9e9dc7f0-2d43-11e9-8464-3f14ee30ac7f] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:53:31.879Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810411820
+[INFO  - 2019-02-10T14:53:31.934Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:53:34.042Z] GhostDriver - Main - running on port 32805
+[INFO  - 2019-02-10T14:53:34.080Z] Session [a381c3c0-2d43-11e9-aa71-bd50a5bdf203] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:34.080Z] Session [a381c3c0-2d43-11e9-aa71-bd50a5bdf203] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:34.080Z] Session [a381c3c0-2d43-11e9-aa71-bd50a5bdf203] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:34.080Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a381c3c0-2d43-11e9-aa71-bd50a5bdf203
+[ERROR - 2019-02-10T14:53:37.655Z] Session [a381c3c0-2d43-11e9-aa71-bd50a5bdf203] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:53:37.655Z] Session [a381c3c0-2d43-11e9-aa71-bd50a5bdf203] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:53:37.914Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810417859
+[INFO  - 2019-02-10T14:53:37.968Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:53:40.170Z] GhostDriver - Main - running on port 26892
+[INFO  - 2019-02-10T14:53:40.743Z] Session [a77a0000-2d43-11e9-a544-473c677052f4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:40.744Z] Session [a77a0000-2d43-11e9-a544-473c677052f4] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:40.744Z] Session [a77a0000-2d43-11e9-a544-473c677052f4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:40.744Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a77a0000-2d43-11e9-a544-473c677052f4
+[ERROR - 2019-02-10T14:53:44.101Z] Session [a77a0000-2d43-11e9-a544-473c677052f4] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:53:44.101Z] Session [a77a0000-2d43-11e9-a544-473c677052f4] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:53:44.361Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810424309
+[INFO  - 2019-02-10T14:53:44.401Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:53:46.529Z] GhostDriver - Main - running on port 11304
+[INFO  - 2019-02-10T14:53:46.550Z] Session [aaf0b030-2d43-11e9-809e-5b41905aa4cb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:46.551Z] Session [aaf0b030-2d43-11e9-809e-5b41905aa4cb] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:46.551Z] Session [aaf0b030-2d43-11e9-809e-5b41905aa4cb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:46.551Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aaf0b030-2d43-11e9-809e-5b41905aa4cb
+[ERROR - 2019-02-10T14:53:50.927Z] Session [aaf0b030-2d43-11e9-809e-5b41905aa4cb] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:53:50.928Z] Session [aaf0b030-2d43-11e9-809e-5b41905aa4cb] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:53:51.191Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810431131
+[INFO  - 2019-02-10T14:53:51.229Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:53:53.352Z] GhostDriver - Main - running on port 20394
+[INFO  - 2019-02-10T14:53:53.378Z] Session [af028ef0-2d43-11e9-8610-1f068192feb2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:53:53.378Z] Session [af028ef0-2d43-11e9-8610-1f068192feb2] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:53:53.379Z] Session [af028ef0-2d43-11e9-8610-1f068192feb2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:53:53.379Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: af028ef0-2d43-11e9-8610-1f068192feb2
+[ERROR - 2019-02-10T14:54:01.642Z] Session [af028ef0-2d43-11e9-8610-1f068192feb2] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:54:01.642Z] Session [af028ef0-2d43-11e9-8610-1f068192feb2] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:54:01.895Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810441846
+[INFO  - 2019-02-10T14:54:01.930Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:54:04.068Z] GhostDriver - Main - running on port 35021
+[INFO  - 2019-02-10T14:54:31.164Z] GhostDriver - Main - running on port 19336
+[INFO  - 2019-02-10T14:54:31.331Z] Session [c5a1ba00-2d43-11e9-9190-4516bcbfc15e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:54:31.332Z] Session [c5a1ba00-2d43-11e9-9190-4516bcbfc15e] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:54:31.332Z] Session [c5a1ba00-2d43-11e9-9190-4516bcbfc15e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:54:31.332Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c5a1ba00-2d43-11e9-9190-4516bcbfc15e
+[ERROR - 2019-02-10T14:54:35.539Z] Session [c5a1ba00-2d43-11e9-9190-4516bcbfc15e] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:54:35.539Z] Session [c5a1ba00-2d43-11e9-9190-4516bcbfc15e] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:54:35.819Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810475755
+[INFO  - 2019-02-10T14:54:35.860Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:54:38.002Z] GhostDriver - Main - running on port 30625
+[INFO  - 2019-02-10T14:54:38.022Z] Session [c99eb130-2d43-11e9-8f08-5519a957b1a4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:54:38.022Z] Session [c99eb130-2d43-11e9-8f08-5519a957b1a4] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:54:38.022Z] Session [c99eb130-2d43-11e9-8f08-5519a957b1a4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:54:38.022Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c99eb130-2d43-11e9-8f08-5519a957b1a4
+[ERROR - 2019-02-10T14:54:41.600Z] Session [c99eb130-2d43-11e9-8f08-5519a957b1a4] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:54:41.600Z] Session [c99eb130-2d43-11e9-8f08-5519a957b1a4] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:54:41.863Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810481805
+[INFO  - 2019-02-10T14:54:41.903Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:54:44.045Z] GhostDriver - Main - running on port 21505
+[INFO  - 2019-02-10T14:54:44.065Z] Session [cd38c7e0-2d43-11e9-a273-7ff428edf649] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:54:44.065Z] Session [cd38c7e0-2d43-11e9-a273-7ff428edf649] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:54:44.065Z] Session [cd38c7e0-2d43-11e9-a273-7ff428edf649] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:54:44.065Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cd38c7e0-2d43-11e9-a273-7ff428edf649
+[ERROR - 2019-02-10T14:54:48.994Z] Session [cd38c7e0-2d43-11e9-a273-7ff428edf649] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:54:48.995Z] Session [cd38c7e0-2d43-11e9-a273-7ff428edf649] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:54:49.251Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810489199
+[INFO  - 2019-02-10T14:54:49.312Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:54:51.455Z] GhostDriver - Main - running on port 34618
+[INFO  - 2019-02-10T14:54:52.039Z] Session [d1f93620-2d43-11e9-82c1-9bcad73ed648] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:54:52.040Z] Session [d1f93620-2d43-11e9-82c1-9bcad73ed648] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:54:52.040Z] Session [d1f93620-2d43-11e9-82c1-9bcad73ed648] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:54:52.040Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d1f93620-2d43-11e9-82c1-9bcad73ed648
+[ERROR - 2019-02-10T14:54:58.009Z] Session [d1f93620-2d43-11e9-82c1-9bcad73ed648] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:54:58.009Z] Session [d1f93620-2d43-11e9-82c1-9bcad73ed648] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:54:58.297Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810498244
+[INFO  - 2019-02-10T14:54:58.341Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:55:00.562Z] GhostDriver - Main - running on port 15187
+[INFO  - 2019-02-10T14:55:01.084Z] Session [d75d8580-2d43-11e9-818d-31e7129d3555] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:55:01.084Z] Session [d75d8580-2d43-11e9-818d-31e7129d3555] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:55:01.084Z] Session [d75d8580-2d43-11e9-818d-31e7129d3555] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:55:01.084Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d75d8580-2d43-11e9-818d-31e7129d3555
+[ERROR - 2019-02-10T14:55:04.895Z] Session [d75d8580-2d43-11e9-818d-31e7129d3555] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:55:04.895Z] Session [d75d8580-2d43-11e9-818d-31e7129d3555] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:55:05.204Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810505156
+[INFO  - 2019-02-10T14:55:05.247Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:55:06.957Z] GhostDriver - Main - running on port 32187
+[INFO  - 2019-02-10T14:55:07.496Z] Session [db301150-2d43-11e9-94b7-13a3f3e88c37] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:55:07.497Z] Session [db301150-2d43-11e9-94b7-13a3f3e88c37] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:55:07.497Z] Session [db301150-2d43-11e9-94b7-13a3f3e88c37] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:55:07.497Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: db301150-2d43-11e9-94b7-13a3f3e88c37
+[ERROR - 2019-02-10T14:55:11.871Z] Session [db301150-2d43-11e9-94b7-13a3f3e88c37] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:55:11.871Z] Session [db301150-2d43-11e9-94b7-13a3f3e88c37] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:55:12.181Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810512115
+[INFO  - 2019-02-10T14:55:12.239Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:55:14.438Z] GhostDriver - Main - running on port 30225
+[INFO  - 2019-02-10T14:55:15.007Z] Session [dfa9b290-2d43-11e9-bee9-edb3b27d22cb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:55:15.007Z] Session [dfa9b290-2d43-11e9-bee9-edb3b27d22cb] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:55:15.007Z] Session [dfa9b290-2d43-11e9-bee9-edb3b27d22cb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:55:15.007Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: dfa9b290-2d43-11e9-bee9-edb3b27d22cb
+[ERROR - 2019-02-10T14:55:20.111Z] Session [dfa9b290-2d43-11e9-bee9-edb3b27d22cb] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:55:20.111Z] Session [dfa9b290-2d43-11e9-bee9-edb3b27d22cb] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:55:20.408Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810520361
+[INFO  - 2019-02-10T14:55:20.451Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:55:22.617Z] GhostDriver - Main - running on port 6737
+[INFO  - 2019-02-10T14:55:23.189Z] Session [e48a7a10-2d43-11e9-ab7b-ffb890c505b0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:55:23.189Z] Session [e48a7a10-2d43-11e9-ab7b-ffb890c505b0] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:55:23.189Z] Session [e48a7a10-2d43-11e9-ab7b-ffb890c505b0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:55:23.189Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e48a7a10-2d43-11e9-ab7b-ffb890c505b0
+[ERROR - 2019-02-10T14:55:28.617Z] Session [e48a7a10-2d43-11e9-ab7b-ffb890c505b0] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:55:28.617Z] Session [e48a7a10-2d43-11e9-ab7b-ffb890c505b0] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:55:28.907Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810528849
+[INFO  - 2019-02-10T14:55:28.946Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:55:31.089Z] GhostDriver - Main - running on port 40356
+[INFO  - 2019-02-10T14:55:31.698Z] Session [e99c1590-2d43-11e9-bc0a-57cabf48f495] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:55:31.698Z] Session [e99c1590-2d43-11e9-bc0a-57cabf48f495] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:55:31.698Z] Session [e99c1590-2d43-11e9-bc0a-57cabf48f495] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:55:31.698Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e99c1590-2d43-11e9-bc0a-57cabf48f495
+[ERROR - 2019-02-10T14:55:36.080Z] Session [e99c1590-2d43-11e9-bc0a-57cabf48f495] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:55:36.080Z] Session [e99c1590-2d43-11e9-bc0a-57cabf48f495] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:55:36.328Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810536284
+[INFO  - 2019-02-10T14:55:36.367Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2019-02-10T14:55:38.546Z] GhostDriver - Main - running on port 13314
+[INFO  - 2019-02-10T14:55:39.123Z] Session [ee095ac0-2d43-11e9-a163-f39011691697] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-10T14:55:39.123Z] Session [ee095ac0-2d43-11e9-a163-f39011691697] - page.customHeaders:  - {}
+[INFO  - 2019-02-10T14:55:39.123Z] Session [ee095ac0-2d43-11e9-a163-f39011691697] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-10T14:55:39.123Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ee095ac0-2d43-11e9-a163-f39011691697
+[ERROR - 2019-02-10T14:55:57.307Z] Session [ee095ac0-2d43-11e9-a163-f39011691697] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2019-02-10T14:55:57.307Z] Session [ee095ac0-2d43-11e9-a163-f39011691697] - page.onError - stack:
+  assembleStyles (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:356)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:789)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2135)
+  ./node_modules/chalk/index.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:2397)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/formatWebpackMessages.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8405)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  ./node_modules/react-dev-utils/webpackHotDevClient.js (http://blog.ukwest.cloudapp.azure.com:3000/static/js/0.chunk.js:8561)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  fn (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:151)
+  (anonymous function) (http://blog.ukwest.cloudapp.azure.com:3000/static/js/main.chunk.js:2656)
+  __webpack_require__ (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:783)
+  checkDeferredModules (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:46)
+  webpackJsonpCallback (http://blog.ukwest.cloudapp.azure.com:3000/static/js/bundle.js:33)
+[ERROR - 2019-02-10T14:55:57.595Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549810557538
+[INFO  - 2019-02-10T14:55:57.637Z] ShutdownReqHand - _handle - About to shutdown
